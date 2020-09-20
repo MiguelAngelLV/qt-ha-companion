@@ -1,0 +1,28 @@
+{
+  "home_assistant": {
+    "prefix": "homeassistant"
+
+  },
+
+  "mqtt": {
+    "port": 1883,
+    "username": "",
+    "password": "",
+    "hostname": ""
+
+  },
+
+  "device": {
+    "identifiers": [ "Desktop"],
+    "manufacturer": "Computer",
+    "name": "My Desktop"
+  },
+
+  "ram_usage": {
+    "name": "Ram Usage",
+    "icon": "mdi:memory",
+    "unit_of_measurement": "MB"
+  }
+
+
+}
